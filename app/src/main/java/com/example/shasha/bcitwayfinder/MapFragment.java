@@ -43,7 +43,7 @@ public class MapFragment extends Fragment implements OnMapReadyCallback {
         MarkerOptions option = new MarkerOptions();
         option.position(homebcit).title("BCIT");
         map.addMarker(option);
-        map.moveCamera(CameraUpdateFactory.newLatLng(homebcit));
+        map.animateCamera(CameraUpdateFactory.newLatLngZoom(homebcit, 15));
 
     }
 }
