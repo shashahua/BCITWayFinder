@@ -1,35 +1,27 @@
 {
   "project_info": {
-    "project_number": "146812863681",
-    "firebase_url": "https://bcit-wayfinding-91757.firebaseio.com",
-    "project_id": "bcit-wayfinding-91757",
-    "storage_bucket": "bcit-wayfinding-91757.appspot.com"
+    "project_number": "95629106610",
+    "firebase_url": "https://bcit-wayfinder-8f095.firebaseio.com",
+    "project_id": "bcit-wayfinder-8f095",
+    "storage_bucket": "bcit-wayfinder-8f095.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:146812863681:android:cfcc0d0bd4340d31",
+        "mobilesdk_app_id": "1:95629106610:android:cfcc0d0bd4340d31",
         "android_client_info": {
           "package_name": "com.example.shasha.bcitwayfinder"
         }
       },
       "oauth_client": [
         {
-          "client_id": "146812863681-5btl1se4v2o4kojp7opbleiuq0q0i4oe.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.shasha.bcitwayfinder",
-            "certificate_hash": "1cf7bb90ff57ae11c4a2c05c364dfb2bf3654cff"
-          }
-        },
-        {
-          "client_id": "146812863681-sf7g6cvqk5e5gjgd27lr61g21e7l4731.apps.googleusercontent.com",
+          "client_id": "95629106610-j4ljqsra7clkmrj75g3907334i0i3ssr.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBoU4OVnuzV5EFodS-TO6rYAjtfRpTqNSQ"
+          "current_key": "AIzaSyDq1WhtFTv-CIbMhYRKP-8oDQEHzIWaGRI"
         }
       ],
       "services": {
@@ -37,13 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "146812863681-sf7g6cvqk5e5gjgd27lr61g21e7l4731.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
