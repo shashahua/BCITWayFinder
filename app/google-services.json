@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "95629106610",
-    "firebase_url": "https://bcit-wayfinder-8f095.firebaseio.com",
-    "project_id": "bcit-wayfinder-8f095",
-    "storage_bucket": "bcit-wayfinder-8f095.appspot.com"
+    "project_number": "522900125978",
+    "firebase_url": "https://bcit-wayfinder-2c1d0.firebaseio.com",
+    "project_id": "bcit-wayfinder-2c1d0",
+    "storage_bucket": "bcit-wayfinder-2c1d0.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:95629106610:android:cfcc0d0bd4340d31",
+        "mobilesdk_app_id": "1:522900125978:android:cfcc0d0bd4340d31",
         "android_client_info": {
           "package_name": "com.example.shasha.bcitwayfinder"
         }
       },
       "oauth_client": [
         {
-          "client_id": "95629106610-j4ljqsra7clkmrj75g3907334i0i3ssr.apps.googleusercontent.com",
+          "client_id": "522900125978-7l4s88g1ph6rpo1rcgjvjc9l83rjl6fg.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDq1WhtFTv-CIbMhYRKP-8oDQEHzIWaGRI"
+          "current_key": "AIzaSyBqmpDDX4HoWPMs9U77rZiyriIUwCcd0Is"
         }
       ],
       "services": {
